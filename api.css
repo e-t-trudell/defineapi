@@ -4,6 +4,10 @@ body{
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
+    background: url("https://images.pexels.com/photos/1133491/pexels-photo-1133491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+h1{
+    color: goldenrod;
 }
 #searchBar{
     border: 2px solid green;
@@ -31,4 +35,5 @@ button{
     font-size: 10px;
     border-radius: 5px;
     padding: 5px;
+    background-color: bisque;
 }
